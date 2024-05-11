@@ -1,4 +1,4 @@
-This project is a part from How to build a modern computer from nand to tetris part 2. <br>
+This project is a part from How to build a modern computer from nand to tetris part 2 course. <br>
 This is a two tear comiler like jave and python.<br>
 Two tear compiler compile on two stages first it comile for intermediate language (Virtual machine language) then the intermediate language is compiled to machine code.<br>
 This compiler compile form the jack language to the Virtual machine language.<br>
